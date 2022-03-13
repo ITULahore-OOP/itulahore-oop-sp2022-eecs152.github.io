@@ -19,7 +19,7 @@ description: In contrast to procedural programming, object-oriented programming 
   Object Oriented Programming (OOP) is the most commonly used mode of computer programming owing to its construction and ability to break down complex problem into simpler components. In this course, C++ language is used to teach the fundamentals of OOP.
 author: Usama Bin Shakeel
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://itulahore-oop-sp2022-ee.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://spring2022-cs152.ubs.dev' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/ubs-itu.png"
 
