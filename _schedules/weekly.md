@@ -31,14 +31,6 @@ schedule:
     
   - name: Tuesday
     events:
-      - name: Lecture
-        start: 8:30 AM
-        end: 10:00 AM
-        location: Programming Lab Level 4
-      - name: Lab
-        start: 10:00 AM
-        end: 11:45 AM
-        location: Programming Lab Level 4
       - name: UBS Appointment Slots
         start: 11:45 AM
         end: 12:45 PM
@@ -47,6 +39,14 @@ schedule:
         end: 1:45 PM
   - name: Wednesday
     events:
+      - name: Lecture
+        start: 8:30 AM
+        end: 10:00 AM
+        location: Computer Lab (Level-6)
+      - name: Lab
+        start: 10:00 AM
+        end: 11:45 AM
+        location: Computer Lab (Level-6)
       - name: UBS Appointment Slots
         start: 11:45 AM
         end: 12:45 PM
@@ -55,25 +55,22 @@ schedule:
         end: 1:45 PM
   - name: Thursday
     events:
-      - name: Lecture
-        start: 8:30 AM
-        end: 10:00 AM
-        location: Programming Lab Level 4
-      - name: Lab
-        start: 10:00 AM
-        end: 11:45 AM
-        location: Programming Lab Level 4
       - name: UBS Appointment Slots
         start: 11:45 AM
         end: 12:45 PM
       - name: TA Appointment Slots
         start: 12:45 PM
         end: 1:45 PM
-        link: "www.google.com"
-    
-
   - name: Friday
     events:
+      - name: Lecture
+        start: 8:30 AM
+        end: 10:00 AM
+        location: Computer Lab (Level-6)
+      - name: Lab
+        start: 10:00 AM
+        end: 11:45 AM
+        location: Computer Lab (Level-6)
       - name: UBS Appointment Slots
         start: 11:45 AM
         end: 12:45 PM

@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Object Oriented Programming CE
+title: Object Oriented Programming EE
 nav_exclude: true
 seo:
   type: Course
-  name: Object Oriented Programming CE
+  name: Object Oriented Programming EE
 ---
 
 # {{ site.tagline }}
@@ -18,7 +18,7 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
-## Object Oriented Programming CE
+## Object Oriented Programming EE
 
 In contrast to procedural programming, object-oriented programming is about identifying and creating objects. They have both functions and data, this help in encapsulating functionality.
 Object Oriented Programming (OOP) is the most commonly used mode of computer programming owing to its construction and ability to break down complex problem into simpler components. In this course, C++ language is used to teach the fundamentals of OOP.
