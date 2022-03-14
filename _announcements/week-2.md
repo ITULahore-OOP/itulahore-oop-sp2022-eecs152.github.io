@@ -1,6 +1,6 @@
 ---
 title: Week 2 Announcement
-week: 1
+week: 2
 date: 2022-03-14
 ---
 
