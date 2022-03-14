@@ -3,7 +3,7 @@ title: Recap for Computing Fundamentals & Programming
 ---
 
 Mar 23
-: **Theory**{: .label .schedule-event.lecture } [Nested Loops & Switch Cases](#) (Holiday will be moved to another day)
+: **Theory**{: .label .schedule-event.lecture } [Recursion](#) (Holiday will be moved to another day)
 : [Reading Material](#) , [Quiz with Solution](#)
 
 Mar 23
@@ -11,7 +11,7 @@ Mar 23
 : [Task](#), [Solution](#)
 
 Mar 25
-: **Theory**{: .label .schedule-event.lecture } [Arrays 1D & 2D](#)
+: **Theory**{: .label .schedule-event.lecture } [File reading & writing & Structs](#)
 : [Reading Material](#) ,   [Quiz with Solution](#)
 
 Mar 25 
