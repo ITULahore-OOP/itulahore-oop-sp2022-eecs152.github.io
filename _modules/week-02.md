@@ -11,7 +11,7 @@ Mar 16
 [//]: # (: [Reading Material]&#40;#&#41; , [Quiz with Solution]&#40;#&#41;)
 
 Mar 16
-: **Lab**{: .label .label-green } Week 2 : [Lab Task A](https://classroom.github.com/a/1aWGbyS_)
+: **Lab**{: .label .label-green } Week 2 : [Lab Task A](https://classroom.github.com/a/rT5yYD9V)
 
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
