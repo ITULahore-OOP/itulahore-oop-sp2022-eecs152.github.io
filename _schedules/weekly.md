@@ -33,14 +33,6 @@ schedule:
         end: 5:00 PM    
   - name: Tuesday
     events:
-      - name: UBS Appointment Slots
-        start: 11:45 AM
-        end: 12:45 PM
-      - name: TA Appointment Slots
-        start: 12:45 PM
-        end: 1:45 PM
-  - name: Wednesday
-    events:
       - name: Lecture
         start: 8:30 AM
         end: 10:00 AM
@@ -49,6 +41,14 @@ schedule:
         start: 10:00 AM
         end: 11:45 AM
         location: Computer Lab (Level-6)
+      - name: UBS Appointment Slots
+        start: 11:45 AM
+        end: 12:45 PM
+      - name: TA Appointment Slots
+        start: 12:45 PM
+        end: 1:45 PM
+  - name: Wednesday
+    events:
       - name: UBS Appointment Slots
         start: 11:45 AM
         end: 12:45 PM

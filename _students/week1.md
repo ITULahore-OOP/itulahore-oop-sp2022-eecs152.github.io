@@ -1,7 +1,7 @@
 ---
-name: Your Name
+name: No One
 role: Week 1
-email: youremail@itu.edu.pk
-photo: yourpicture.png
+email: noone @itu.edu.pk
+photo: noone.png
 ---
 Week 1
