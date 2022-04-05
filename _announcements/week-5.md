@@ -1,12 +1,12 @@
 ---
-title: Week 3 Announcement
-week: 3
-date: 2022-03-21
+title: Week 5 Announcement
+week: 5
+date: 2022-04-04
 ---
 
-1. Week 3 Lab Task A : Deadline [22nd March 2022, 11:45 am](#). 
-1. Week 3 Lab Task B : Deadline [25th March 2022, 11:45 am](#). 
-1. Week 3 Assignment : Deadline [27th March 2022, 11:59 pm](#),
+1. Week 5 Lab Task A : Deadline [5th April 2022, 11:00 am](#). 
+1. Week 5 Lab Task B : Deadline [8th April 2022, 11:00 am](#). 
+1. Week 5 Assignment : Deadline [10th April 2022, 11:59 pm](#),
 1. Quiz in both lectures  
 1. Details of them are available in calendar section
 

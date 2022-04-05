@@ -3,7 +3,7 @@ title: Week 4 - Object Oriented Programming Basics
 ---
 
 Mar 29
-: **Theory**{: .label .schedule-event.lecture } [Introduction to Classes]() 
+: **Theory**{: .label .schedule-event.lecture } [Introduction to Classes](https://drive.google.com/file/d/1D2Rnt-RxNp0BrH0-400MeqGibfiT1F1s/view?usp=sharing) 
 
 [//]: # (: [Reading Material]&#40;#&#41; , [Quiz with Solution]&#40;#&#41;)
 
@@ -13,7 +13,7 @@ Mar 29
 [//]: # (: [Task]&#40;#&#41;, [Solution]&#40;#&#41;)
 
 Apr 1
-: **Theory**{: .label .schedule-event.lecture } Object Lifecycle & Access Specifiers
+: **Theory**{: .label .schedule-event.lecture } [Object Lifecycle & Access Specifiers](https://drive.google.com/file/d/1wQyr-wsvOxwK-vkRytw9cqUrPtHeF-mQ/view?usp=sharing)
 
 [//]: # (: [Reading Material]&#40;#&#41; ,   [Quiz with Solution]&#40;#&#41;)
 

@@ -1,7 +1,7 @@
 ---
-name: Your Name
+name: Sumama Bin Riaz
 role: Week 2
-email: youremail@itu.edu.pk
-photo: yourpicture.png
+email: bsee21028@itu.edu.pk
+photo: bsee21028.jpg
 ---
 Week 2
