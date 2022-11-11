@@ -1,6 +1,6 @@
 ---
-role: Regular
 timeline:
+  - '8:00 AM'
   - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
@@ -23,58 +23,28 @@ timeline:
 schedule:
   - name: Monday 
     events:
-      - name: UBS Appointment Slots
-        start: 11:45 AM
-        end: 12:45 PM
-      - name: TA Appointment Slots
-        start: 12:45 PM
-        end: 1:45 PM
-      - name: Lab Missing Evaluations
-        start: 2:00 PM
-        end: 5:00 PM    
   - name: Tuesday
     events:
       - name: Lecture
-        start: 8:30 AM
-        end: 10:00 AM
-        location: Computer Lab (Level-6)
+        start: 8:00 AM
+        end: 09:30 AM
+        location: Embedded Lab Level 6
       - name: Lab
-        start: 10:00 AM
-        end: 11:45 AM
-        location: Computer Lab (Level-6)
-      - name: UBS Appointment Slots
-        start: 11:45 AM
-        end: 12:45 PM
-      - name: TA Appointment Slots
-        start: 12:45 PM
-        end: 1:45 PM
+        start: 09:30 AM
+        end: 11:00 AM
+        location: Embedded Lab Level 6
   - name: Wednesday
     events:
-      - name: UBS Appointment Slots
-        start: 11:45 AM
-        end: 12:45 PM
-      - name: TA Appointment Slots
-        start: 12:45 PM
-        end: 1:45 PM
   - name: Thursday
     events:
-      - name: UBS Appointment Slots
-        start: 11:45 AM
-        end: 12:45 PM
-      - name: TA Appointment Slots
-        start: 12:45 PM
-        end: 1:45 PM
+    - name: Lecture
+      start: 8:00 AM
+      end: 09:30 AM
+      location: Embedded Lab Level 6
+    - name: Lab
+      start: 09:30 AM
+      end: 11:00 AM
+      location: Embedded Lab Level 6
   - name: Friday
     events:
-      - name: Lecture
-        start: 8:30 AM
-        end: 10:00 AM
-        location: Computer Lab (Level-6)
-      - name: Lab
-        start: 10:00 AM
-        end: 11:45 AM
-        location: Computer Lab (Level-6)
-      - name: UBS Appointment Slots
-        start: 11:45 AM
-        end: 12:45 PM
 ---
